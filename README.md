@@ -1,14 +1,13 @@
 # Pemrograman Berbasis Framework - Pertemuan 2
 
 ## Introduction
-- Nama: Maulidio Farhan Rizkullah
-- NIM: 2141720041
-- Kelas: TI-3C
-- No. Absen: 10
+
+I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in TI-3C class of State Polytechnic of Malang. With a passion for technology and a knack for problem-solving, I'm constantly seeking to expand my knowledge and skills in the field of programming.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Table of Contents](#table-of-contents)
 - [Author](#author)
 - [Documentation](#documentation)
 - [Contact Me](#contact-me)
@@ -108,7 +107,7 @@ Karena Next.js menggunakan fitur Fast Refresh. Fast Refresh adalah fitur yang me
     **Gatsby:** Berfokus pada performa dan SEO. Memanfaatkan SSG untuk menghasilkan situs web statis. Cocok untuk situs web statis dan blog. Memiliki kurva belajar yang lebih kompleks dibandingkan Remix.
 
     **Next.js:** Menawarkan fleksibilitas dan banyak pilihan fitur. Cocok untuk berbagai jenis situs web dan aplikasi web. Memiliki komunitas besar dan banyak dokumentasi.
-    
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
