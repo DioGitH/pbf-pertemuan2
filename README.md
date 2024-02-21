@@ -90,7 +90,25 @@ Karena Next.js menggunakan fitur Fast Refresh. Fast Refresh adalah fitur yang me
 
 ### Tugas
 
+- ***Remix***
+![Remix](docs/img/sst-remix1.png)
+![Remix](docs/img/sst-remix2.png)
+![Remix](docs/img/sst-remix3.png)
 
+- ***Gatsby***
+![Gatsby](docs/img/sst-gatsby1.png)
+![Gatsby](docs/img/sst-gatsby2.png)
+![Gatsby](docs/img/sst-gatsby3.png)
+![Gatsby](docs/img/sst-gatsby4.png)
+
+- ***Perbedaan***
+
+    **Remix:** Dirancang untuk kinerja dan skalabilitas. Ideal untuk situs web dinamis dan aplikasi web. Memberikan pengalaman developer yang sederhana dan terstruktur.
+
+    **Gatsby:** Berfokus pada performa dan SEO. Memanfaatkan SSG untuk menghasilkan situs web statis. Cocok untuk situs web statis dan blog. Memiliki kurva belajar yang lebih kompleks dibandingkan Remix.
+
+    **Next.js:** Menawarkan fleksibilitas dan banyak pilihan fitur. Cocok untuk berbagai jenis situs web dan aplikasi web. Memiliki komunitas besar dan banyak dokumentasi.
+    
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
