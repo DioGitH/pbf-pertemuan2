@@ -1,36 +1,103 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pemrograman Berbasis Framework - Pertemuan 2
 
-## Getting Started
+## Introduction
+- Nama: Maulidio Farhan Rizkullah
+- NIM: 2141720041
+- Kelas: TI-3C
+- No. Absen: 10
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Introduction](#introduction)
+- [Author](#author)
+- [Documentation](#documentation)
+- [Contact Me](#contact-me)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Author
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [@DioGitH](https://www.github.com/DioGitH)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Documentation
+### Praktikum 1
+#### Langkah 1 dan 2
+![ss1](docs/img/l1-2.png)
 
-## Learn More
+#### Soal 1
+- ***Typescript***
 
-To learn more about Next.js, take a look at the following resources:
+Typescript adalah bahasa pemrograman berbasis JavaScript yang menambahkan fitur strong-typing & konsep pemrograman OOP klasik ( class, interface). TypeScript disebut sebagai super-set dari JavaScript, yang berarti semua kode JavaScript adalah kode TypeScript juga. Bahasa pemrograman ini menawarkan class, module, dan interface yang membuat developer bisa mengembangkan aplikasi kompleks dengan lebih mudah.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ***ESLint***
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+ ESLint adalah sebuah tools untuk melakukan static analyzes kode kita agar kita tau dengan cepat menemukan masalah atau potensi bug dari kode yang sudah kita buat.
 
-## Deploy on Vercel
+- ***Tailwind CSS***
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Tailwind CSS adalah utility-first framework CSS yang didesain untuk mempermudah dan mempercepat pembuatan aplikasi menggunakan desain custom.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- ***App Router***
+
+App Router pada Next.js merupakan sebuah fitur baru yang diperkenalkan pada versi 13. Fitur ini menghadirkan cara baru dalam membangun aplikasi web dengan memanfaatkan fitur-fitur terbaru React seperti Server Components, Streaming with Suspense, dan Server Actions.
+
+- ***Import alias***
+
+Import alias pada Next.js memungkinkan Anda untuk memberi nama baru pada modul atau variabel yang diimpor.
+#### Langkah 3
+![ss2](docs/img/l3.png)
+
+#### Soal 2
+
+- ***Folder:***
+
+    **.git:** Berisi informasi tentang history versi kode aplikasi.
+
+    **src/app:** Berisi file konfigurasi aplikasi Next.js, seperti app.tsx dan routes.tsx.
+
+    **node_modules:** Berisi modul Node.js yang digunakan oleh aplikasi.
+
+    **public:** Berisi aset statis yang dapat diakses langsung oleh browser (gambar, CSS, JavaScript).
+
+- ***File:***
+
+    **.eslintrc.json:** Berisi konfigurasi ESLint untuk linting kode JavaScript.
+
+    **next-env.d.ts:** Berisi deklarasi tipe untuk variabel environment Next.js.
+
+    **next.config.mjs:** Berisi konfigurasi Next.js untuk aplikasi dalam format JavaScript module.
+
+    **package-lock.json:** Berisi daftar dependensi aplikasi dan versi spesifiknya.
+
+    **package.json:** Berisi informasi tentang dependensi aplikasi (instalasi dan pengelolaan).
+
+    **postcss.config.js:** Berisi konfigurasi PostCSS untuk processing CSS.
+
+    **README.md:** Berisi informasi tentang aplikasi, seperti cara penggunaan dan dokumentasi.
+
+    **tailwind.config.ts:** Berisi konfigurasi Tailwind CSS untuk aplikasi.
+
+    **tsconfig.json:** Konfigurasi TypeScript untuk aplikasi (compiler options, linting, type checking).
+
+#### Langkah 4
+![ss3](docs/img/l4.png)
+
+- ***Hasil***
+![ss4](docs/img/l4hasil.png)
+
+#### Soal 3
+![ss5](docs/img/l4soal.png)
+
+Karena Next.js menggunakan fitur Fast Refresh. Fast Refresh adalah fitur yang memungkinkan untuk melihat perubahan pada kode aplikasi React secara langsung di browser tanpa perlu me-reload halaman.
+
+### Tugas
+
+
+## Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
+[![Whastapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285289589391&text&type=phone_number&app_absent=0)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maulidio16)
+
+
+
+
+
